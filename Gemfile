@@ -49,4 +49,3 @@ group :test do
   gem 'rspec-rails'
   gem 'capybara'
 end
-
